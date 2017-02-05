@@ -1,0 +1,20 @@
+{
+  "name": "haoyuntest",
+  "version": "1.0.0",
+  "authors": [
+    "田瑜 <515301230@qq.comm>"
+  ],
+  "description": "this is a test",
+  "main": "aa.js",
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
