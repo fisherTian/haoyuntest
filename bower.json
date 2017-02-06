@@ -12,6 +12,7 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
+    "test.js",
     "node_modules",
     "bower_components",
     "test",
